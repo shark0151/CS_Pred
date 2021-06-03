@@ -10,6 +10,14 @@
 *.userosscache
 *.sln.docstates
 
+# UE4 specific files
+Saved/*
+Intermediate/*
+DerivedDataCache/*
+Binaries/*
+Script/*
+*.sln
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
