@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Data\\Unreal Projects\\CS_Pred\\Source\\CS_Pred\\CS_Pred.Build.cs",
-		"C:\\Data\\Unreal Projects\\CS_Pred\\Source\\CS_Pred.Target.cs",
-		"C:\\Data\\Unreal Projects\\CS_Pred\\Source\\CS_PredEditor.Target.cs"
-	],
-	"EngineVersion": "4.26.2"
-}

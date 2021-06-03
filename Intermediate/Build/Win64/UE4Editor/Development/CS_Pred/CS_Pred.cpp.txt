@@ -1,2 +1,0 @@
-C:\Data\Unreal Projects\CS_Pred\Intermediate\Build\Win64\UE4Editor\Development\CS_Pred\Definitions.CS_Pred.h
-C:\Data\Unreal Projects\CS_Pred\Source\CS_Pred\CS_Pred.h
