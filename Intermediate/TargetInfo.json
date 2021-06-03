@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CS_Pred",
+			"Path": "C:\\Data\\Unreal Projects\\CS_Pred\\Source\\CS_Pred.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CS_PredEditor",
+			"Path": "C:\\Data\\Unreal Projects\\CS_Pred\\Source\\CS_PredEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

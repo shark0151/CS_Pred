@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CS_Pred.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{34B2E77A-0441-45E0-9BAF-CA68311B17F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CS_Pred.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CS_PredEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F70CCEA3-F178-455E-BCFA-2C31FCF5F844}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CS_Pred">
+      <UniqueIdentifier>{047F471A-A228-4E78-9299-33D0EA88866B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CS_Pred\CS_Pred.Build.cs">
+      <Filter>Source\CS_Pred</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CS_Pred\CS_Pred.cpp">
+      <Filter>Source\CS_Pred</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CS_Pred\CS_Pred.h">
+      <Filter>Source\CS_Pred</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CS_Pred\CS_PredCharacter.cpp">
+      <Filter>Source\CS_Pred</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CS_Pred\CS_PredCharacter.h">
+      <Filter>Source\CS_Pred</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CS_Pred\CS_PredGameMode.cpp">
+      <Filter>Source\CS_Pred</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CS_Pred\CS_PredGameMode.h">
+      <Filter>Source\CS_Pred</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CS_Pred\MyPawn.cpp">
+      <Filter>Source\CS_Pred</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CS_Pred\MyPawn.h">
+      <Filter>Source\CS_Pred</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
